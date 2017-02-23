@@ -1,5 +1,5 @@
-import CirclePacker from '../dist/circlepacker.es6.js';
-import { random } from '../src/util.js';
+import CirclePacker from './dist/circlepacker.es6.js';
+import { random } from './util.js';
 
 const containerEl = document.querySelector( '.container' );
 const addButtonEl = document.querySelector( '#add-circle' );

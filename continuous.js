@@ -1,5 +1,5 @@
-import CirclePacker from '../dist/circlepacker.js';
-import { random } from '../src/util.js';
+import CirclePacker from './dist/circlepacker.js';
+import { random } from './util.js';
 
 const DRAG_THRESOLD = 10;
 
